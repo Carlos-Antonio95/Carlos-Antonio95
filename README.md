@@ -8,11 +8,9 @@
 </div>
 
 ###
-<!-- Snake Game -->
 <div align="center">
-  <img src="https://github.com/Carlos-Antonio95/Carlos-Antonio95/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Carlos-Antonio95/Carlos-Antonio95/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
 
 
 
