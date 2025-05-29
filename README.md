@@ -8,10 +8,6 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Carlos-Antonio95/Carlos-Antonio95/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 
 
 <img align="right" height="150" src="https://cdn.pixabay.com/animation/2023/06/15/00/30/00-30-53-113_512.gif" />
