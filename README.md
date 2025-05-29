@@ -7,12 +7,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Antonio95&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-
-
 ###
+<!-- Snake Game -->
+<div align="center">
+  <img src="https://github.com/Carlos-Antonio95/Carlos-Antonio95/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+
+
 
 <img align="right" height="150" src="https://cdn.pixabay.com/animation/2023/06/15/00/30/00-30-53-113_512.gif" />
-
 ###
 
 <div align="left">
@@ -31,6 +35,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img hidth="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+
 </div>
 
 ###
