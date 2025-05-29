@@ -8,8 +8,6 @@
 </div>
 
 ###
-
-
 <img align="right" height="150" src="https://cdn.pixabay.com/animation/2023/06/15/00/30/00-30-53-113_512.gif" />
 ###
 
